@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter">Please Enter first two words of the country in textbox below and list will pop up for selection</string>
+</resources>

@@ -1,0 +1,7 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>directoryChecker</find>
+    </findStrings>
+  </component>
+</application>

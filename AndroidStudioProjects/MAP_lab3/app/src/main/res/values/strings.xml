@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Guide</string>
+    <string name="terminology">Terminology</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="websites">Websites</string>
+    <string name="title_activity_terminology">Terminology</string>
+
+</resources>
